@@ -1,4 +1,4 @@
-package com.daksh.practice.designpatterns;
+package com.daksh.designpatterns;
 
 public abstract class UIControl {
   public void enable() {

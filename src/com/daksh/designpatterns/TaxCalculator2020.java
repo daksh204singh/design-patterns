@@ -1,4 +1,4 @@
-package com.daksh.practice.designpatterns;
+package com.daksh.designpatterns;
 
 public class TaxCalculator2020 implements TaxCalculator {
   @Override

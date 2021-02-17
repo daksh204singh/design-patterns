@@ -1,4 +1,4 @@
-package com.daksh.practice.designpatterns;
+package com.daksh.designpatterns;
 
 public class User {
   // Fields (attributes)
