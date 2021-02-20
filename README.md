@@ -1,2 +1,4 @@
 # Design Patterns
+
 * Memento
+* Strategy

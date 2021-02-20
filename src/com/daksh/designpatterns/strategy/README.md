@@ -9,3 +9,8 @@
 * Avoids duplicate code by programming to an interface, and swapping implementations according to requirement.
 * Keeps class changes from forcing other classes changes.
 * Can hide complicated/secret code from user.
+
+### Examples included:
+* Duck
+* Image Storage
+* Encryption
